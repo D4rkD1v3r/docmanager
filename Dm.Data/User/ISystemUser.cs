@@ -1,4 +1,4 @@
 ﻿namespace Dm.Data.User {
-	class ISystemUser {
+	public interface ISystemUser {
 	}
 }
