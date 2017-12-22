@@ -43,6 +43,8 @@
     <Compile Include="..\version.cs">
       <Link>Properties\version.cs</Link>
     </Compile>
+    <Compile Include="Document\DocumentType.cs" />
+    <Compile Include="Document\FileContentType.cs" />
     <Compile Include="Document\IBaseDocument.cs" />
     <Compile Include="User\ISystemUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
